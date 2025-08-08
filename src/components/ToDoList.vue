@@ -95,4 +95,5 @@ li {
        text-decoration: line-through;
   color: gray;
 }
+
 </style>
